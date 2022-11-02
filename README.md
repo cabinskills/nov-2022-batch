@@ -1,8 +1,8 @@
 # Full Stack Development - Nov 2022 - Batch 1
 
-November Class Days\n
+November Class Days<br>
 
-1 - Programming Basics\n
+1 - Programming Basics<br>
 2 - Setup Environments and Demo Coding, Github
 3 - Client Side Coding, Server Side Coding, HTML, CSS, Javascript and PHP Basics
 4 - Integrating Bootstrap in Webdesign, Javascript and PHP (Variable, Datatypes, Operators, Conditions, Looping)
