@@ -31,3 +31,8 @@ November Class Days<br>
 28 - Project and Recalls<br>
 29 - Project and Recalls<br>
 30 - Publishing Your Android App in Google Play Store<br>
+
+More About Javascript Engine
+----------------------------
+<a href="https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f" target="_blank">https://medium.com/jspoint/how-javascript-works-in-browser-and-node-ab7d0d09ac2f</a>
+<a href="https://www.digitalocean.com/community/tutorials/js-v8-engine" target="_blank">https://www.digitalocean.com/community/tutorials/js-v8-engine</a>
